@@ -1,0 +1,40 @@
+C:\Users\İdris TÜRKER\Desktop\ParalelProgramlama\Proje\WriterClient\WriterClient_Computer\WriterClient_Computer\obj\x86\Debug\WriterClient_Computer.Properties.Resources.resources
+C:\Users\İdris TÜRKER\Desktop\ParalelProgramlama\Proje\WriterClient\WriterClient_Computer\WriterClient_Computer\obj\x86\Debug\WriterClient_Computer.csproj.GenerateResource.Cache
+C:\Users\İdris TÜRKER\Desktop\ParalelProgramlama\Proje\WriterClient\WriterClient_Computer\WriterClient_Computer\bin\Debug\WriterClient_Computer.exe
+C:\Users\İdris TÜRKER\Desktop\ParalelProgramlama\Proje\WriterClient\WriterClient_Computer\WriterClient_Computer\bin\Debug\WriterClient_Computer.pdb
+C:\Users\İdris TÜRKER\Desktop\ParalelProgramlama\Proje\WriterClient\WriterClient_Computer\WriterClient_Computer\obj\x86\Debug\WriterClient_Computer.exe
+C:\Users\İdris TÜRKER\Desktop\ParalelProgramlama\Proje\WriterClient\WriterClient_Computer\WriterClient_Computer\obj\x86\Debug\WriterClient_Computer.pdb
+C:\Users\İdris TÜRKER\Desktop\ParalelProgramlama\Proje\WriterClient\WriterClient_Computer\WriterClient_Computer\obj\x86\Debug\WriterClient_Computer.csprojResolveAssemblyReference.cache
+C:\Users\İdris TÜRKER\Desktop\ParalelProgramlama\Proje\WriterClient\WriterClient_Computer\WriterClient_Computer\obj\x86\Debug\WriterClient_Computer.WriterClient_Computer.resources
+C:\Users\İdris TÜRKER\Desktop\WriterClient\WriterClient_Computer\WriterClient_Computer\obj\x86\Debug\WriterClient_Computer.exe
+C:\Users\İdris TÜRKER\Desktop\WriterClient\WriterClient_Computer\WriterClient_Computer\obj\x86\Debug\WriterClient_Computer.pdb
+C:\Users\İdris TÜRKER\Desktop\WriterClient\WriterClient_Computer\WriterClient_Computer\bin\Debug\WriterClient_Computer.exe
+C:\Users\İdris TÜRKER\Desktop\WriterClient\WriterClient_Computer\WriterClient_Computer\bin\Debug\WriterClient_Computer.pdb
+C:\Users\İdris TÜRKER\Desktop\WriterClient\WriterClient_Computer\WriterClient_Computer\obj\x86\Debug\WriterClient_Computer.csprojResolveAssemblyReference.cache
+C:\Users\İdris TÜRKER\Desktop\WriterClient\WriterClient_Computer\WriterClient_Computer\obj\x86\Debug\WriterClient_Computer.WriterClient_Computer.resources
+C:\Users\İdris TÜRKER\Desktop\WriterClient\WriterClient_Computer\WriterClient_Computer\obj\x86\Debug\WriterClient_Computer.Properties.Resources.resources
+C:\Users\İdris TÜRKER\Desktop\WriterClient\WriterClient_Computer\WriterClient_Computer\obj\x86\Debug\WriterClient_Computer.csproj.GenerateResource.Cache
+C:\Users\Ahmet\Desktop\END\WriterClient\WriterClient_Computer\WriterClient_Computer\obj\x86\Debug\WriterClient_Computer.exe
+C:\Users\Ahmet\Desktop\END\WriterClient\WriterClient_Computer\WriterClient_Computer\obj\x86\Debug\WriterClient_Computer.pdb
+C:\Users\Ahmet\Desktop\END\WriterClient\WriterClient_Computer\WriterClient_Computer\bin\Debug\WriterClient_Computer.exe
+C:\Users\Ahmet\Desktop\END\WriterClient\WriterClient_Computer\WriterClient_Computer\bin\Debug\WriterClient_Computer.pdb
+C:\Users\Ahmet\Desktop\END\WriterClient\WriterClient_Computer\WriterClient_Computer\obj\x86\Debug\WriterClient_Computer.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet\Desktop\END\WriterClient\WriterClient_Computer\WriterClient_Computer\obj\x86\Debug\WriterClient_Computer.WriterClient_Computer.resources
+C:\Users\Ahmet\Desktop\END\WriterClient\WriterClient_Computer\WriterClient_Computer\obj\x86\Debug\WriterClient_Computer.Properties.Resources.resources
+C:\Users\Ahmet\Desktop\END\WriterClient\WriterClient_Computer\WriterClient_Computer\obj\x86\Debug\WriterClient_Computer.csproj.GenerateResource.Cache
+C:\Users\Ahmet\Desktop\END_Working\WriterClient\WriterClient_Computer\WriterClient_Computer\obj\x86\Debug\WriterClient_Computer.exe
+C:\Users\Ahmet\Desktop\END_Working\WriterClient\WriterClient_Computer\WriterClient_Computer\obj\x86\Debug\WriterClient_Computer.pdb
+C:\Users\Ahmet\Desktop\END_Working\WriterClient\WriterClient_Computer\WriterClient_Computer\bin\Debug\WriterClient_Computer.exe
+C:\Users\Ahmet\Desktop\END_Working\WriterClient\WriterClient_Computer\WriterClient_Computer\bin\Debug\WriterClient_Computer.pdb
+C:\Users\Ahmet\Desktop\END_Working\WriterClient\WriterClient_Computer\WriterClient_Computer\obj\x86\Debug\WriterClient_Computer.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet\Desktop\END_Working\WriterClient\WriterClient_Computer\WriterClient_Computer\obj\x86\Debug\WriterClient_Computer.WriterClient_Computer.resources
+C:\Users\Ahmet\Desktop\END_Working\WriterClient\WriterClient_Computer\WriterClient_Computer\obj\x86\Debug\WriterClient_Computer.Properties.Resources.resources
+C:\Users\Ahmet\Desktop\END_Working\WriterClient\WriterClient_Computer\WriterClient_Computer\obj\x86\Debug\WriterClient_Computer.csproj.GenerateResource.Cache
+D:\Dersler\4. Sınıf 1. Dönem\Paralel Programlama\END_Working\WriterClient\WriterClient_Computer\WriterClient_Computer\obj\x86\Debug\WriterClient_Computer.exe
+D:\Dersler\4. Sınıf 1. Dönem\Paralel Programlama\END_Working\WriterClient\WriterClient_Computer\WriterClient_Computer\obj\x86\Debug\WriterClient_Computer.pdb
+D:\Dersler\4. Sınıf 1. Dönem\Paralel Programlama\END_Working\WriterClient\WriterClient_Computer\WriterClient_Computer\bin\Debug\WriterClient_Computer.exe
+D:\Dersler\4. Sınıf 1. Dönem\Paralel Programlama\END_Working\WriterClient\WriterClient_Computer\WriterClient_Computer\bin\Debug\WriterClient_Computer.pdb
+D:\Dersler\4. Sınıf 1. Dönem\Paralel Programlama\END_Working\WriterClient\WriterClient_Computer\WriterClient_Computer\obj\x86\Debug\WriterClient_Computer.csprojResolveAssemblyReference.cache
+D:\Dersler\4. Sınıf 1. Dönem\Paralel Programlama\END_Working\WriterClient\WriterClient_Computer\WriterClient_Computer\obj\x86\Debug\WriterClient_Computer.WriterClient_Computer.resources
+D:\Dersler\4. Sınıf 1. Dönem\Paralel Programlama\END_Working\WriterClient\WriterClient_Computer\WriterClient_Computer\obj\x86\Debug\WriterClient_Computer.Properties.Resources.resources
+D:\Dersler\4. Sınıf 1. Dönem\Paralel Programlama\END_Working\WriterClient\WriterClient_Computer\WriterClient_Computer\obj\x86\Debug\WriterClient_Computer.csproj.GenerateResource.Cache
